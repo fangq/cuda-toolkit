@@ -1,4 +1,3 @@
-import * as artifact from '@actions/artifact'
 import * as core from '@actions/core'
 import {OSType, getOs} from './platform'
 import {SemVer} from 'semver'
